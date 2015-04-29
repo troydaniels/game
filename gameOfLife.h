@@ -1,5 +1,5 @@
-void initBoard(void);
-void printBoard(void);
+void initBoard(int, _Bool *);
+void printBoard(int, _Bool *);
 void clearScreen(void);
-void updateBoard(void);
+void updateBoard(int, _Bool *);
 void waitFor(unsigned int);
