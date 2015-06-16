@@ -1,1 +1,2 @@
-# game-of-life
+# Game of Life
+Implemented in C
