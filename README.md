@@ -3,4 +3,4 @@
 
 **Implemented in C**
 
-See [here](http://mathworld.wolfram.com/GameofLife.html) for an indepth exlaination of the game of life.
+See [here](http://mathworld.wolfram.com/GameofLife.html) for an indepth explaination of the game of life.
